@@ -647,3 +647,4 @@ int main(int __attribute_unused__ argc, char __attribute_unused__ **argv) {
     fclose(fp_all);
     exit(EXIT_SUCCESS);
 }
+
